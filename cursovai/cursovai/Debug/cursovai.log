@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(81): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(89): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(97): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(105): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(126): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(177): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(673,5): error MSB6006: "link.exe" завершилась с кодом 1112.

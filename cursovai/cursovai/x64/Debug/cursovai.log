@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(246): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(257): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(267): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(277): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(328): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(353): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(399): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(425): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(441): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\max1908\documents\github\proekt\cursovai\cursovai\source.cpp(329): warning C4101: time: неиспользованная локальная переменная
+  cursovai.vcxproj -> C:\Users\max1908\Documents\GitHub\proekt\cursovai\x64\Debug\cursovai.exe
